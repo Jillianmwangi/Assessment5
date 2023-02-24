@@ -1,6 +1,6 @@
-Object Oriented Programming 
+Object Oriented Programming - 
 
-Design a class pattern for the following requirements using JavaScript. 
+Design a class pattern for the following requirements using JavaScript. (class patterns I guess ni mambo na inheritance kwa classes)
 
 A pharmacist writes prescriptions to people. 
 
