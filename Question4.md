@@ -1,0 +1,2 @@
+Constructive criticism to me is giving a person clear and honest feedback about something (especially if it is a bit negative), which involves pointers and corrections on what would have made it better. 
+An example may be when somebody is late frequently you could say, "I have noticed that sometimes you are late and sometimes you are punctual. I believe it would help a lot if you would improve on your time management skills and also communication skills when you're late if the situation is unavoidable. " 
